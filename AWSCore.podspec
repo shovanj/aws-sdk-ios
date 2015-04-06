@@ -23,5 +23,5 @@ Pod::Spec.new do |s|
 
   s.source_files = 'AWSCore/*.{h,m}', 'AWSCore/**/*.{h,m}'
   s.resources = ['AWSCore/**/Resources/*.json']
-  s.private_header_files = 'AWSCore/MobileAnalytics/Internal/*.h'
+  # s.private_header_files = 'AWSCore/MobileAnalytics/Internal/*.h'
 end

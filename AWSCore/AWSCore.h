@@ -26,6 +26,6 @@
 
 #import "AWSSTS.h"
 #import "AWSCognitoIdentity.h"
-#import "MobileAnalytics.h"
+//#import "MobileAnalytics.h"
 
 #import <Bolts/Bolts.h>
